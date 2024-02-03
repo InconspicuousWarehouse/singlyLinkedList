@@ -1,7 +1,6 @@
-CMakeFiles/untitled.dir/cWarzywo.cpp.obj: \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cWarzywo.cpp \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cWarzywo.h \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cProdukt.h \
+CMakeFiles/untitled.dir/src/cWezel.cpp.obj: \
+ D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWezel.cpp \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cProdukt.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/iostream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -138,4 +137,6 @@ CMakeFiles/untitled.dir/cWarzywo.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_relops.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_vector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_bvector.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/vector.tcc
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/vector.tcc \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cWezel.h \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cProdukt.h

@@ -1,5 +1,5 @@
-#include "cProdukt.h"
-#include "cWezel.h"
+#include "../headers/cProdukt.h"
+#include "../headers/cWezel.h"
 
 //Dodawanie Produktu
 cWezel::cWezel(cProdukt WyslanyProdukt)

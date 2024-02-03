@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Users\SUPERKOMP\Desktop\Baza danych"
+CMAKE_SOURCE_DIR = D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug"
+CMAKE_BINARY_DIR = D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled.dir/depend.make
@@ -68,97 +68,97 @@ include CMakeFiles/untitled.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled.dir/flags.make
 
-CMakeFiles/untitled.dir/main.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/main.cpp.obj: D:/Users/SUPERKOMP/Desktop/Baza\ danych/main.cpp
-CMakeFiles/untitled.dir/main.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/main.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/main.cpp.obj -MF CMakeFiles\untitled.dir\main.cpp.obj.d -o CMakeFiles\untitled.dir\main.cpp.obj -c "D:\Users\SUPERKOMP\Desktop\Baza danych\main.cpp"
+CMakeFiles/untitled.dir/src/main.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/src/main.cpp.obj: D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/src/main.cpp
+CMakeFiles/untitled.dir/src/main.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/src/main.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/src/main.cpp.obj -MF CMakeFiles\untitled.dir\src\main.cpp.obj.d -o CMakeFiles\untitled.dir\src\main.cpp.obj -c D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\main.cpp
 
-CMakeFiles/untitled.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/main.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Users\SUPERKOMP\Desktop\Baza danych\main.cpp" > CMakeFiles\untitled.dir\main.cpp.i
+CMakeFiles/untitled.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/src/main.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\main.cpp > CMakeFiles\untitled.dir\src\main.cpp.i
 
-CMakeFiles/untitled.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/main.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Users\SUPERKOMP\Desktop\Baza danych\main.cpp" -o CMakeFiles\untitled.dir\main.cpp.s
+CMakeFiles/untitled.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/src/main.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\main.cpp -o CMakeFiles\untitled.dir\src\main.cpp.s
 
-CMakeFiles/untitled.dir/cProdukt.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/cProdukt.cpp.obj: D:/Users/SUPERKOMP/Desktop/Baza\ danych/cProdukt.cpp
-CMakeFiles/untitled.dir/cProdukt.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/cProdukt.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/cProdukt.cpp.obj -MF CMakeFiles\untitled.dir\cProdukt.cpp.obj.d -o CMakeFiles\untitled.dir\cProdukt.cpp.obj -c "D:\Users\SUPERKOMP\Desktop\Baza danych\cProdukt.cpp"
+CMakeFiles/untitled.dir/src/cProdukt.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/src/cProdukt.cpp.obj: D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/src/cProdukt.cpp
+CMakeFiles/untitled.dir/src/cProdukt.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/src/cProdukt.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/src/cProdukt.cpp.obj -MF CMakeFiles\untitled.dir\src\cProdukt.cpp.obj.d -o CMakeFiles\untitled.dir\src\cProdukt.cpp.obj -c D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cProdukt.cpp
 
-CMakeFiles/untitled.dir/cProdukt.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/cProdukt.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Users\SUPERKOMP\Desktop\Baza danych\cProdukt.cpp" > CMakeFiles\untitled.dir\cProdukt.cpp.i
+CMakeFiles/untitled.dir/src/cProdukt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/src/cProdukt.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cProdukt.cpp > CMakeFiles\untitled.dir\src\cProdukt.cpp.i
 
-CMakeFiles/untitled.dir/cProdukt.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/cProdukt.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Users\SUPERKOMP\Desktop\Baza danych\cProdukt.cpp" -o CMakeFiles\untitled.dir\cProdukt.cpp.s
+CMakeFiles/untitled.dir/src/cProdukt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/src/cProdukt.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cProdukt.cpp -o CMakeFiles\untitled.dir\src\cProdukt.cpp.s
 
-CMakeFiles/untitled.dir/cWarzywo.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/cWarzywo.cpp.obj: D:/Users/SUPERKOMP/Desktop/Baza\ danych/cWarzywo.cpp
-CMakeFiles/untitled.dir/cWarzywo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/cWarzywo.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/cWarzywo.cpp.obj -MF CMakeFiles\untitled.dir\cWarzywo.cpp.obj.d -o CMakeFiles\untitled.dir\cWarzywo.cpp.obj -c "D:\Users\SUPERKOMP\Desktop\Baza danych\cWarzywo.cpp"
+CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj: D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/src/cWarzywo.cpp
+CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj -MF CMakeFiles\untitled.dir\src\cWarzywo.cpp.obj.d -o CMakeFiles\untitled.dir\src\cWarzywo.cpp.obj -c D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWarzywo.cpp
 
-CMakeFiles/untitled.dir/cWarzywo.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/cWarzywo.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Users\SUPERKOMP\Desktop\Baza danych\cWarzywo.cpp" > CMakeFiles\untitled.dir\cWarzywo.cpp.i
+CMakeFiles/untitled.dir/src/cWarzywo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/src/cWarzywo.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWarzywo.cpp > CMakeFiles\untitled.dir\src\cWarzywo.cpp.i
 
-CMakeFiles/untitled.dir/cWarzywo.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/cWarzywo.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Users\SUPERKOMP\Desktop\Baza danych\cWarzywo.cpp" -o CMakeFiles\untitled.dir\cWarzywo.cpp.s
+CMakeFiles/untitled.dir/src/cWarzywo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/src/cWarzywo.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWarzywo.cpp -o CMakeFiles\untitled.dir\src\cWarzywo.cpp.s
 
-CMakeFiles/untitled.dir/cBaza.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/cBaza.cpp.obj: D:/Users/SUPERKOMP/Desktop/Baza\ danych/cBaza.cpp
-CMakeFiles/untitled.dir/cBaza.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/cBaza.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/cBaza.cpp.obj -MF CMakeFiles\untitled.dir\cBaza.cpp.obj.d -o CMakeFiles\untitled.dir\cBaza.cpp.obj -c "D:\Users\SUPERKOMP\Desktop\Baza danych\cBaza.cpp"
+CMakeFiles/untitled.dir/src/cBaza.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/src/cBaza.cpp.obj: D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/src/cBaza.cpp
+CMakeFiles/untitled.dir/src/cBaza.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/src/cBaza.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/src/cBaza.cpp.obj -MF CMakeFiles\untitled.dir\src\cBaza.cpp.obj.d -o CMakeFiles\untitled.dir\src\cBaza.cpp.obj -c D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cBaza.cpp
 
-CMakeFiles/untitled.dir/cBaza.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/cBaza.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Users\SUPERKOMP\Desktop\Baza danych\cBaza.cpp" > CMakeFiles\untitled.dir\cBaza.cpp.i
+CMakeFiles/untitled.dir/src/cBaza.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/src/cBaza.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cBaza.cpp > CMakeFiles\untitled.dir\src\cBaza.cpp.i
 
-CMakeFiles/untitled.dir/cBaza.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/cBaza.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Users\SUPERKOMP\Desktop\Baza danych\cBaza.cpp" -o CMakeFiles\untitled.dir\cBaza.cpp.s
+CMakeFiles/untitled.dir/src/cBaza.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/src/cBaza.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cBaza.cpp -o CMakeFiles\untitled.dir\src\cBaza.cpp.s
 
-CMakeFiles/untitled.dir/cWezel.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/cWezel.cpp.obj: D:/Users/SUPERKOMP/Desktop/Baza\ danych/cWezel.cpp
-CMakeFiles/untitled.dir/cWezel.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/cWezel.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/cWezel.cpp.obj -MF CMakeFiles\untitled.dir\cWezel.cpp.obj.d -o CMakeFiles\untitled.dir\cWezel.cpp.obj -c "D:\Users\SUPERKOMP\Desktop\Baza danych\cWezel.cpp"
+CMakeFiles/untitled.dir/src/cWezel.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/src/cWezel.cpp.obj: D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/src/cWezel.cpp
+CMakeFiles/untitled.dir/src/cWezel.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/src/cWezel.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/src/cWezel.cpp.obj -MF CMakeFiles\untitled.dir\src\cWezel.cpp.obj.d -o CMakeFiles\untitled.dir\src\cWezel.cpp.obj -c D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWezel.cpp
 
-CMakeFiles/untitled.dir/cWezel.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/cWezel.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Users\SUPERKOMP\Desktop\Baza danych\cWezel.cpp" > CMakeFiles\untitled.dir\cWezel.cpp.i
+CMakeFiles/untitled.dir/src/cWezel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/src/cWezel.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWezel.cpp > CMakeFiles\untitled.dir\src\cWezel.cpp.i
 
-CMakeFiles/untitled.dir/cWezel.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/cWezel.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Users\SUPERKOMP\Desktop\Baza danych\cWezel.cpp" -o CMakeFiles\untitled.dir\cWezel.cpp.s
+CMakeFiles/untitled.dir/src/cWezel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/src/cWezel.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWezel.cpp -o CMakeFiles\untitled.dir\src\cWezel.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
-"CMakeFiles/untitled.dir/main.cpp.obj" \
-"CMakeFiles/untitled.dir/cProdukt.cpp.obj" \
-"CMakeFiles/untitled.dir/cWarzywo.cpp.obj" \
-"CMakeFiles/untitled.dir/cBaza.cpp.obj" \
-"CMakeFiles/untitled.dir/cWezel.cpp.obj"
+"CMakeFiles/untitled.dir/src/main.cpp.obj" \
+"CMakeFiles/untitled.dir/src/cProdukt.cpp.obj" \
+"CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj" \
+"CMakeFiles/untitled.dir/src/cBaza.cpp.obj" \
+"CMakeFiles/untitled.dir/src/cWezel.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
-untitled.exe: CMakeFiles/untitled.dir/main.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/cProdukt.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/cWarzywo.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/cBaza.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/cWezel.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/src/main.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/src/cProdukt.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/src/cBaza.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/src/cWezel.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linkLibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -170,6 +170,6 @@ CMakeFiles/untitled.dir/clean:
 .PHONY : CMakeFiles/untitled.dir/clean
 
 CMakeFiles/untitled.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Users\SUPERKOMP\Desktop\Baza danych" "D:\Users\SUPERKOMP\Desktop\Baza danych" "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug" "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug" "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled.dir/depend
 

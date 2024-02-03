@@ -1,6 +1,6 @@
-CMakeFiles/untitled.dir/main.cpp.obj: \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\main.cpp \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cProdukt.h \
+CMakeFiles/untitled.dir/src/cProdukt.cpp.obj: \
+ D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cProdukt.cpp \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cProdukt.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/iostream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -138,13 +138,5 @@ CMakeFiles/untitled.dir/main.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_vector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_bvector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/vector.tcc \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cWarzywo.h \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cBaza.h \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cWezel.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/fstream \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/codecvt.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/fstream.tcc \
- C:/mingw64/x86_64-w64-mingw32/include/conio.h \
- C:/mingw64/x86_64-w64-mingw32/include/sec_api/conio_s.h
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/sstream \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/sstream.tcc

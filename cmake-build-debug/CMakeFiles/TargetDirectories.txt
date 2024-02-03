@@ -1,3 +1,3 @@
-D:/Users/SUPERKOMP/Desktop/Baza danych/cmake-build-debug/CMakeFiles/untitled.dir
-D:/Users/SUPERKOMP/Desktop/Baza danych/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Users/SUPERKOMP/Desktop/Baza danych/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/cmake-build-debug/CMakeFiles/untitled.dir
+D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

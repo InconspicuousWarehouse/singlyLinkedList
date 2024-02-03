@@ -1,4 +1,4 @@
-# Install script for directory: D:/Users/SUPERKOMP/Desktop/Baza danych
+# Install script for directory: D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Users/SUPERKOMP/Desktop/Baza danych/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

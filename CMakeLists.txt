@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled main.cpp cProdukt.cpp cProdukt.h cWarzywo.cpp cWarzywo.h cBaza.cpp cBaza.h cWezel.cpp cWezel.h)
+add_executable(untitled src/main.cpp src/cProdukt.cpp headers/cProdukt.h src/cWarzywo.cpp headers/cWarzywo.h src/cBaza.cpp headers/cBaza.h src/cWezel.cpp headers/cWezel.h)

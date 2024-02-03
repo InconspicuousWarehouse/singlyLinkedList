@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Users/SUPERKOMP/Desktop/Baza danych/cmake-build-debug"
+			"value" : "d:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -187,10 +187,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "UNINITIALIZED",
 			"value" : "C:/mingw64/bin/g++.exe"
 		},
 		{
@@ -331,10 +331,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "UNINITIALIZED",
 			"value" : "C:/mingw64/bin/gcc.exe"
 		},
 		{
@@ -643,7 +643,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Users/SUPERKOMP/Desktop/Baza danych/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Users/SUPERKOMP/Desktop/Baza danych"
+			"value" : "D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1343,7 +1343,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Users/SUPERKOMP/Desktop/Baza danych/cmake-build-debug"
+			"value" : "D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/cmake-build-debug"
 		},
 		{
 			"name" : "untitled_IS_TOP_LEVEL",
@@ -1367,7 +1367,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Users/SUPERKOMP/Desktop/Baza danych"
+			"value" : "D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa"
 		}
 	],
 	"kind" : "cache",

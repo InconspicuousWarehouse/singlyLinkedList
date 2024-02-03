@@ -1,6 +1,7 @@
-CMakeFiles/untitled.dir/cWezel.cpp.obj: \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cWezel.cpp \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cProdukt.h \
+CMakeFiles/untitled.dir/src/cBaza.cpp.obj: \
+ D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cBaza.cpp \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cWezel.h \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cProdukt.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/iostream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -138,4 +139,11 @@ CMakeFiles/untitled.dir/cWezel.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_vector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_bvector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/vector.tcc \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cWezel.h
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cBaza.h \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cWezel.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/fstream \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/codecvt.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/fstream.tcc \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cProdukt.h

@@ -1,6 +1,6 @@
-#include "cWezel.h"
-#include "cBaza.h"
-#include "cProdukt.h"
+#include "../headers/cWezel.h"
+#include "../headers/cBaza.h"
+#include "../headers/cProdukt.h"
 #include<vector>
 #include<iostream>
 

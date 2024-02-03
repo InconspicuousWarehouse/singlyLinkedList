@@ -1,6 +1,7 @@
-CMakeFiles/untitled.dir/cProdukt.cpp.obj: \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cProdukt.cpp \
- D:\Users\SUPERKOMP\Desktop\Baza\ danych\cProdukt.h \
+CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj: \
+ D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\src\cWarzywo.cpp \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cWarzywo.h \
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cProdukt.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/iostream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -138,5 +139,4 @@ CMakeFiles/untitled.dir/cProdukt.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_vector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/stl_bvector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/vector.tcc \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/sstream \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/sstream.tcc
+ D:/Users/SUPERKOMP/Desktop/listaJednokierunkowa/headers/cProdukt.h

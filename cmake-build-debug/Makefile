@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Users\SUPERKOMP\Desktop\Baza danych"
+CMAKE_SOURCE_DIR = D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug"
+CMAKE_BINARY_DIR = D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Users\SUPERKOMP\Desktop\Baza danych\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Users\SUPERKOMP\Desktop\listaJednokierunkowa\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,125 +128,125 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
-cBaza.obj: cBaza.cpp.obj
-.PHONY : cBaza.obj
+src/cBaza.obj: src/cBaza.cpp.obj
+.PHONY : src/cBaza.obj
 
 # target to build an object file
-cBaza.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cBaza.cpp.obj
-.PHONY : cBaza.cpp.obj
+src/cBaza.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cBaza.cpp.obj
+.PHONY : src/cBaza.cpp.obj
 
-cBaza.i: cBaza.cpp.i
-.PHONY : cBaza.i
+src/cBaza.i: src/cBaza.cpp.i
+.PHONY : src/cBaza.i
 
 # target to preprocess a source file
-cBaza.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cBaza.cpp.i
-.PHONY : cBaza.cpp.i
+src/cBaza.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cBaza.cpp.i
+.PHONY : src/cBaza.cpp.i
 
-cBaza.s: cBaza.cpp.s
-.PHONY : cBaza.s
+src/cBaza.s: src/cBaza.cpp.s
+.PHONY : src/cBaza.s
 
 # target to generate assembly for a file
-cBaza.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cBaza.cpp.s
-.PHONY : cBaza.cpp.s
+src/cBaza.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cBaza.cpp.s
+.PHONY : src/cBaza.cpp.s
 
-cProdukt.obj: cProdukt.cpp.obj
-.PHONY : cProdukt.obj
+src/cProdukt.obj: src/cProdukt.cpp.obj
+.PHONY : src/cProdukt.obj
 
 # target to build an object file
-cProdukt.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cProdukt.cpp.obj
-.PHONY : cProdukt.cpp.obj
+src/cProdukt.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cProdukt.cpp.obj
+.PHONY : src/cProdukt.cpp.obj
 
-cProdukt.i: cProdukt.cpp.i
-.PHONY : cProdukt.i
+src/cProdukt.i: src/cProdukt.cpp.i
+.PHONY : src/cProdukt.i
 
 # target to preprocess a source file
-cProdukt.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cProdukt.cpp.i
-.PHONY : cProdukt.cpp.i
+src/cProdukt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cProdukt.cpp.i
+.PHONY : src/cProdukt.cpp.i
 
-cProdukt.s: cProdukt.cpp.s
-.PHONY : cProdukt.s
+src/cProdukt.s: src/cProdukt.cpp.s
+.PHONY : src/cProdukt.s
 
 # target to generate assembly for a file
-cProdukt.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cProdukt.cpp.s
-.PHONY : cProdukt.cpp.s
+src/cProdukt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cProdukt.cpp.s
+.PHONY : src/cProdukt.cpp.s
 
-cWarzywo.obj: cWarzywo.cpp.obj
-.PHONY : cWarzywo.obj
+src/cWarzywo.obj: src/cWarzywo.cpp.obj
+.PHONY : src/cWarzywo.obj
 
 # target to build an object file
-cWarzywo.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cWarzywo.cpp.obj
-.PHONY : cWarzywo.cpp.obj
+src/cWarzywo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cWarzywo.cpp.obj
+.PHONY : src/cWarzywo.cpp.obj
 
-cWarzywo.i: cWarzywo.cpp.i
-.PHONY : cWarzywo.i
+src/cWarzywo.i: src/cWarzywo.cpp.i
+.PHONY : src/cWarzywo.i
 
 # target to preprocess a source file
-cWarzywo.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cWarzywo.cpp.i
-.PHONY : cWarzywo.cpp.i
+src/cWarzywo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cWarzywo.cpp.i
+.PHONY : src/cWarzywo.cpp.i
 
-cWarzywo.s: cWarzywo.cpp.s
-.PHONY : cWarzywo.s
+src/cWarzywo.s: src/cWarzywo.cpp.s
+.PHONY : src/cWarzywo.s
 
 # target to generate assembly for a file
-cWarzywo.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cWarzywo.cpp.s
-.PHONY : cWarzywo.cpp.s
+src/cWarzywo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cWarzywo.cpp.s
+.PHONY : src/cWarzywo.cpp.s
 
-cWezel.obj: cWezel.cpp.obj
-.PHONY : cWezel.obj
+src/cWezel.obj: src/cWezel.cpp.obj
+.PHONY : src/cWezel.obj
 
 # target to build an object file
-cWezel.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cWezel.cpp.obj
-.PHONY : cWezel.cpp.obj
+src/cWezel.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cWezel.cpp.obj
+.PHONY : src/cWezel.cpp.obj
 
-cWezel.i: cWezel.cpp.i
-.PHONY : cWezel.i
+src/cWezel.i: src/cWezel.cpp.i
+.PHONY : src/cWezel.i
 
 # target to preprocess a source file
-cWezel.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cWezel.cpp.i
-.PHONY : cWezel.cpp.i
+src/cWezel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cWezel.cpp.i
+.PHONY : src/cWezel.cpp.i
 
-cWezel.s: cWezel.cpp.s
-.PHONY : cWezel.s
+src/cWezel.s: src/cWezel.cpp.s
+.PHONY : src/cWezel.s
 
 # target to generate assembly for a file
-cWezel.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/cWezel.cpp.s
-.PHONY : cWezel.cpp.s
+src/cWezel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/cWezel.cpp.s
+.PHONY : src/cWezel.cpp.s
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+src/main.obj: src/main.cpp.obj
+.PHONY : src/main.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+src/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/main.cpp.obj
+.PHONY : src/main.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
 # Help Target
 help:
@@ -257,21 +257,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
-	@echo ... cBaza.obj
-	@echo ... cBaza.i
-	@echo ... cBaza.s
-	@echo ... cProdukt.obj
-	@echo ... cProdukt.i
-	@echo ... cProdukt.s
-	@echo ... cWarzywo.obj
-	@echo ... cWarzywo.i
-	@echo ... cWarzywo.s
-	@echo ... cWezel.obj
-	@echo ... cWezel.i
-	@echo ... cWezel.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... src/cBaza.obj
+	@echo ... src/cBaza.i
+	@echo ... src/cBaza.s
+	@echo ... src/cProdukt.obj
+	@echo ... src/cProdukt.i
+	@echo ... src/cProdukt.s
+	@echo ... src/cWarzywo.obj
+	@echo ... src/cWarzywo.i
+	@echo ... src/cWarzywo.s
+	@echo ... src/cWezel.obj
+	@echo ... src/cWezel.i
+	@echo ... src/cWezel.s
+	@echo ... src/main.obj
+	@echo ... src/main.i
+	@echo ... src/main.s
 .PHONY : help
 
 

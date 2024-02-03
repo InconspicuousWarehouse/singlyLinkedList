@@ -1,6 +1,6 @@
-#include "cProdukt.h"
-#include "cWarzywo.h"
-#include "cBaza.h"
+#include "../headers/cProdukt.h"
+#include "../headers/cWarzywo.h"
+#include "../headers/cBaza.h"
 #include<iostream>
 #include <conio.h>
 
@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    // Tworzenie produktu:
+    // Tworzenie produkt
     cProdukt Obj1;
     cout<< "Przykladowy produkt: \n";
     Obj1.Pokaz();
