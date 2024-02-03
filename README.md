@@ -20,3 +20,21 @@ Klasa reprezentująca warzywo, która dziedziczy po klasie `cProdukt`. Dodaje me
 ### cWezel
 
 Klasa reprezentująca węzeł w liście jednokierunkowej. Zawiera obiekt klasy `cProdukt` lub wartość całkowitą.
+
+
+
+# Singly Linked List
+This project contains an implementation of the singly linked list data structure in C++. The main goal of the project is to enhance programming skills through practical implementation of this structure. Here you will find various concepts such as inheritance, operator overloading, and method overriding that have been utilized to improve object-oriented programming skills.
+
+## Classes:
+### cBaza
+Class representing a singly linked list. It provides methods for adding and displaying elements in the list.
+
+### cProdukt
+Class representing a product. It includes information such as catalog number, name, quantity, price, unit, and VAT.
+
+### cWarzywo
+Class representing a vegetable, which inherits from the cProduct class. It adds a method for specifying the color of the vegetable and overrides the 'Pokaz()' method to display the color.
+
+### cWezel
+Class representing a node in the singly linked list. It contains an object of the cProduct class or an integer value.
