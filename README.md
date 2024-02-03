@@ -22,7 +22,6 @@ Klasa reprezentująca warzywo, która dziedziczy po klasie `cProdukt`. Dodaje me
 Klasa reprezentująca węzeł w liście jednokierunkowej. Zawiera obiekt klasy `cProdukt` lub wartość całkowitą.
 
 ***
----
 
 # Singly Linked List
 This project contains an implementation of the singly linked list data structure in C++. The main goal of the project is to enhance programming skills through practical implementation of this structure. Here you will find various concepts such as inheritance, operator overloading, and method overriding that have been utilized to improve object-oriented programming skills.
