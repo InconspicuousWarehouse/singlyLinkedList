@@ -1,6 +1,6 @@
 # Lista Jednokierunkowa
 
-Projekt ten zawiera implementację struktury danych listy jednokierunkowej w języku C++. Głównym celem projektu jest doskonalenie umiejętności programistycznych poprzez praktyczną implementację tej struktury.
+Projekt ten zawiera implementację struktury danych listy jednokierunkowej w języku C++. Głównym celem projektu jest praktyczna implementacja tej struktury.
 Znajdziesz tu różne koncepcje, takie jak dziedziczenie, przeciążanie operatorów oraz nadpisywanie metod, które zostały wykorzystane w celu doskonalenia umiejętności programowania obiektowego.
 
 ## Klasy:
@@ -24,7 +24,8 @@ Klasa reprezentująca węzeł w liście jednokierunkowej. Zawiera obiekt klasy `
 ***
 
 # Singly Linked List
-This project contains an implementation of the singly linked list data structure in C++. The main goal of the project is to enhance programming skills through practical implementation of this structure. Here you will find various concepts such as inheritance, operator overloading, and method overriding that have been utilized to improve object-oriented programming skills.
+This project contains an implementation of a singly linked list data structure in C++. The main goal of the project is a practical implementation of this structure.
+You will find various concepts here, such as inheritance, operator overloading, and method overriding, which have been used to enhance object-oriented programming skills.
 
 ## Classes:
 ### cBaza
